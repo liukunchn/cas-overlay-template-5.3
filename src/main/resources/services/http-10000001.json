@@ -1,0 +1,9 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^(http|https|imaps)://.*",
+  "name" : "http",
+  "id" : 10000001,
+  "description" : "http",
+  "evaluationOrder" : 10,
+  "theme" : "http"
+}
